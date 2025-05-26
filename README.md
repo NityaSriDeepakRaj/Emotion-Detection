@@ -1,6 +1,6 @@
 <b>PROBLEM STATEMENT</b><br>
 Turning CCTV into silent guardians of mental health.
-Mental health crises don’t wait. Yet, in schools, offices, and public spaces, sadness often slips through unnoticed — even under the constant gaze of surveillance cameras. Today's systems see motion, not emotion. The challenge? Build tech that detects emotional distress in real time, connects people to support systems without breaching their privacy, and turns passive monitoring into proactive care.
+Mental health crises don’t wait. Yet, in schools, offices, and public spaces, sadness often slips through unnoticed — even under the constant gaze of surveillance cameras. Today's systems see motion, not emotion. The challenge? Build tech that detects emotional distress in real time, connects people to support systems without breaching their privacy, and turns passive monitoring into proactive care. 
 <hr>
 <b>✅ APPROACH</b><br>
 We aim to enhance traditional CCTV systems with the capability to detect emotional distress, particularly sadness, and trigger timely, appropriate responses — all while respecting privacy and context.
