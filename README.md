@@ -1,8 +1,8 @@
-<b>PROBLEM STATEMENT</b>
+<b>PROBLEM STATEMENT</b><br>
 Turning CCTV into silent guardians of mental health.
 Mental health crises don’t wait. Yet, in schools, offices, and public spaces, sadness often slips through unnoticed — even under the constant gaze of surveillance cameras. Today's systems see motion, not emotion. The challenge? Build tech that detects emotional distress in real time, connects people to support systems without breaching their privacy, and turns passive monitoring into proactive care.
 <hr>
-<b>✅ Approach</b><br>
+<b>✅ APPROACH</b><br>
 We aim to enhance traditional CCTV systems with the capability to detect emotional distress, particularly sadness, and trigger timely, appropriate responses — all while respecting privacy and context.
 
 1)Emotion Detection
@@ -17,7 +17,7 @@ Distinguish between controlled environments (schools, offices) and public spaces
 <b>Privacy-First Design</b>
 Ensure that no sensitive personal data (e.g., phone numbers, ID numbers) is collected or stored. All decisions are made using anonymous or location-based identifiers.
 <hr>
-<b>💡 Solution</b><br>
+<b>💡 SOLUTION</b><br>
 Our solution enables emotion-aware interventions in two distinct environments:
 
 <b>🏫 In Schools and Offices:</b><br>
@@ -29,6 +29,9 @@ The response team can reach out to the person and offer mental health support wi
 
 No personally identifiable information is required beyond internal system IDs.
 
-All interactions remain anonymous and non-intrusive, prioritizing emotional well-being while preserving dignity and privacy.
----
-<i src="(https://github.com/user-attachments/assets/6ceb87f1-f5c4-4aa0-8abd-4e5458edbba0)" width="50px" height="50px" />
+<b>All interactions remain anonymous and non-intrusive, prioritizing emotional well-being while preserving dignity and privacy.</b>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3fcaa46a-4c3b-40fd-823f-60cc199ff100" alt="ChatGPT Image" width="500" style="border-radius: 12px;" />
+</p>
+
