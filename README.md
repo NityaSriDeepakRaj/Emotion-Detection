@@ -26,5 +26,6 @@ The response team can reach out to the person and offer mental health support wi
 No personally identifiable information is required beyond internal system IDs.
 
 All interactions remain anonymous and non-intrusive, prioritizing emotional well-being while preserving dignity and privacy.
+
 ![image](https://github.com/user-attachments/assets/b1dbeaf1-9799-4fba-9031-5d10878b1868)
 
