@@ -45,5 +45,60 @@ No personally identifiable information is required beyond internal system IDs.
 
 All interactions remain anonymous and non-intrusive, prioritizing emotional well-being while preserving dignity and privacy.
 
-![image](https://github.com/user-attachments/assets/b1dbeaf1-9799-4fba-9031-5d10878b1868)
+![image](https://github.com/user-attachments/assets/b1dbeaf1-9799-4fba-9031-5d10878b1868)<br><hr>
+
+# 🚀Run Instructions:
+
+## 1) Clone the repository<br>
+Start by cloning the repository to your local machine and navigate into the project directory:<br>
+```git clone https://github.com/your-username/Emotion-Detection.git```<br>
+
+### Navigate into the project directory
+```cd Emotion Detection```<br>
+
+## 2)<b> Serve the Project Locally</b><br>
+### Option A: Using Python (Recommended)<br>
+If you have Python installed:
+#### For Python 3.x users<br>
+```python -m http.server 8000 ```<br>
+Then, open your browser and go to:<br>
+```http://localhost:8000```<br>
+### <b>Option B: Using VS Code Live Server</b><br>
+-->Open the folder in Visual Studio Code.<br>
+
+-->Install the ```Live Server``` extension (if not already installed).<br>
+
+-->Right-click on ```index.html``` and click "Open with Live Server".<br>
+
+## 3. Allow Webcam Access <br>
+-->When prompted by the browser, allow access to the webcam.<br>
+
+-->The system will start detecting your emotions in real-time.<br>
+## 4.📁 Model Files<br>
+-->This project uses pre-trained models from face-api.js. Ensure the following:<br>
+
+-->The models/ directory exists in the root.<br>
+
+-->It contains files like face_expression_model-weights_manifest.json, model.json, etc.<br>
+
+### If you don’t have the models:<br>
+
+-->Download them from the face-api.js model repository.<br>
+
+-->Place them inside the models/ folder.<br>
+
+## ✅ Requirements <br>
+-->A modern web browser (Chrome, Firefox, Edge)<br>
+
+-->Internet connection to load model files (if not hosted locally)<br>
+
+-->Webcam access enabled<br>
+
+
+
+
+
+
+
+
 
