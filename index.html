@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Emotion Detector</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- face-api.js CDN -->
+  <script defer src="https://cdn.jsdelivr.net/npm/face-api.js@0.22.2/dist/face-api.min.js"></script>
+  <!-- Your Script -->
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <h1>Emotion Detector</h1>
+  <video id="video" width="720" height="560" autoplay muted></video>
+
+  <div id="emotion">Detected Emotion: ...</div>
+  <div id="suggestion">Suggestion will appear here</div>
+
+  <div id="moodmate-display" class="moodmate-section"></div>
+</body>
+</html>
